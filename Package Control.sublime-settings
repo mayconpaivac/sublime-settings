@@ -1,3 +1,29 @@
 {
-	"bootstrapped": true
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Color Highlight",
+		"Colorsublime",
+		"DocBlockr",
+		"DotENV",
+		"Dracula Color Scheme",
+		"EditorConfig",
+		"ESLint",
+		"ESLintAutoFix",
+		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"PHP-Twig",
+		"SublimeCodeIntel",
+		"SublimeLinter-php",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package"
+	]
 }

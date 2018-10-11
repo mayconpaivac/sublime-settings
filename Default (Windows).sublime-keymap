@@ -1,0 +1,18 @@
+[
+	{ "keys": ["alt+1"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
+	{ "keys": ["ctrl+d"], "command": "find_under_expand" },
+	{ "keys": ["ctrl+shift+l"], "command": "reindent", "args": {"single_line": false} },
+
+	{ "keys": ["ctrl+shift+-"], "command": "decrease_font_size" },
+	{ "keys": ["ctrl+shift+keypad_minus"], "command": "decrease_font_size" },
+
+	{ "keys": ["ctrl+shift++"], "command": "increase_font_size" },
+	{ "keys": ["ctrl+shift+keypad_plus"], "command": "increase_font_size" },
+
+	{ "keys": ["ctrl+-"], "command": "fold" },
+	{ "keys": ["ctrl++"], "command": "unfold" },
+	{ "keys": ["ctrl+keypad_minus"], "command": "fold" },
+	{ "keys": ["ctrl+keypad_plus"], "command": "unfold" }, 
+]
+
